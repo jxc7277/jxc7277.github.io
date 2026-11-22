@@ -5,7 +5,7 @@ setTransparentGifURL('../Media/transparent.gif');function applyEffects()
 function hostedOnDM()
 {return false;}
 function photocastSubscribe()
-{photocastHelper("file://localhost/Users/rudycastaneda/Sites/Site/Blog/rss.xml");}
+{photocastHelper("https://jxc7277.github.io/Site/Blog/rss.xml");}
 function onPageLoad()
 {loadMozillaCSS('Blog_files/BlogMoz.css')
 adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');adjustLineHeightIfTooBig('id3');adjustFontSizeIfTooBig('id3');adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');adjustLineHeightIfTooBig('id6');adjustFontSizeIfTooBig('id6');detectBrowser();adjustLineHeightIfTooBig('id7');adjustFontSizeIfTooBig('id7');Widget.onload();fixupAllIEPNGBGs();fixAllIEPNGs('../Media/transparent.gif');IMpreload('Blog_files','shapeimage_12','0');fixupIECSS3Opacity('id8');applyEffects()}

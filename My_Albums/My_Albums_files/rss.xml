@@ -2,21 +2,21 @@
 <rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
   <channel>
     <title>My Albums</title>
-    <link>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/My_Albums.html</link>
+    <link>https://jxc7277.github.io/Site/My_Albums/My_Albums.html</link>
     <description>My Albums</description>
     <item>
       <title>Solar Eclipse 2024</title>
-      <link>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024.html</link>
+      <link>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024.html</link>
       <guid isPermaLink="false">2f1e9d2e-ac93-45d6-a537-67654e62bfe6</guid>
     </item>
     <item>
       <title>Real de Catorce Trip</title>
-      <link>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Real_de_Catorce_Trip.html</link>
+      <link>https://jxc7277.github.io/Site/My_Albums/Pages/Real_de_Catorce_Trip.html</link>
       <guid isPermaLink="false">2c667d7e-8db9-41e0-91f6-565136d5a2fe</guid>
     </item>
     <item>
       <title>My drawings</title>
-      <link>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/My_drawings.html</link>
+      <link>https://jxc7277.github.io/Site/My_Albums/Pages/My_drawings.html</link>
       <guid isPermaLink="false">741d82a9-6187-4ec6-b118-a4dd1ac8e161</guid>
     </item>
   </channel>

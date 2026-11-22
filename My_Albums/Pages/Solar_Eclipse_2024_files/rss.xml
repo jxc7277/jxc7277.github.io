@@ -2,37 +2,37 @@
 <rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
   <channel>
     <title>My Photos</title>
-    <link>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024.html</link>
+    <link>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024.html</link>
     <description>These are some pictures I took with my iPhone 13 Pro Max during the total solar eclipse of April 8, 2024. My pictures were unedited so what you see here is the official pictures I took that day.</description>
     <item>
       <title>0e6ad874b09e6a3913a53ed89e366b6b</title>
-      <link>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024.html#0</link>
+      <link>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024.html#0</link>
       <guid isPermaLink="false">94c9d89a-83c3-47e6-99f6-31bfeceedc78</guid>
-      <enclosure url="file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/0e6ad874b09e6a3913a53ed89e366b6b/0e6ad874b09e6a3913a53ed89e366b6b.jpg" length="69522" type="image/jpeg"/>
-      <iphoto:thumbnail>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/0e6ad874b09e6a3913a53ed89e366b6b/thumb.jpg</iphoto:thumbnail>
-      <iweb:micro>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/0e6ad874b09e6a3913a53ed89e366b6b/micro.jpg</iweb:micro>
-      <iweb:mip-thumbnail>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/0e6ad874b09e6a3913a53ed89e366b6b/mip.jpg</iweb:mip-thumbnail>
-      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_42&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;0e6ad874b09e6a3913a53ed89e366b6b&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+      <enclosure url="https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/0e6ad874b09e6a3913a53ed89e366b6b/0e6ad874b09e6a3913a53ed89e366b6b.jpg" length="69522" type="image/jpeg"/>
+      <iphoto:thumbnail>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/0e6ad874b09e6a3913a53ed89e366b6b/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/0e6ad874b09e6a3913a53ed89e366b6b/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/0e6ad874b09e6a3913a53ed89e366b6b/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;0e6ad874b09e6a3913a53ed89e366b6b&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
     </item>
     <item>
       <title>cf926784ec66db1c784f784f58d54cd6</title>
-      <link>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024.html#1</link>
+      <link>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024.html#1</link>
       <guid isPermaLink="false">83bda4b2-73e5-438a-9685-83fbd9b47942</guid>
-      <enclosure url="file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/cf926784ec66db1c784f784f58d54cd6/cf926784ec66db1c784f784f58d54cd6.jpg" length="137533" type="image/jpeg"/>
-      <iphoto:thumbnail>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/cf926784ec66db1c784f784f58d54cd6/thumb.jpg</iphoto:thumbnail>
-      <iweb:micro>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/cf926784ec66db1c784f784f58d54cd6/micro.jpg</iweb:micro>
-      <iweb:mip-thumbnail>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/cf926784ec66db1c784f784f58d54cd6/mip.jpg</iweb:mip-thumbnail>
-      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_42&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;cf926784ec66db1c784f784f58d54cd6&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+      <enclosure url="https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/cf926784ec66db1c784f784f58d54cd6/cf926784ec66db1c784f784f58d54cd6.jpg" length="137533" type="image/jpeg"/>
+      <iphoto:thumbnail>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/cf926784ec66db1c784f784f58d54cd6/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/cf926784ec66db1c784f784f58d54cd6/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/cf926784ec66db1c784f784f58d54cd6/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;cf926784ec66db1c784f784f58d54cd6&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
     </item>
     <item>
       <title>f30efac092ff27ca9f47c1cf8334b9d2</title>
-      <link>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024.html#2</link>
+      <link>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024.html#2</link>
       <guid isPermaLink="false">08a8b1d7-d4c8-4e8d-916b-af8e0a71faea</guid>
-      <enclosure url="file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/f30efac092ff27ca9f47c1cf8334b9d2/f30efac092ff27ca9f47c1cf8334b9d2.jpg" length="143892" type="image/jpeg"/>
-      <iphoto:thumbnail>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/f30efac092ff27ca9f47c1cf8334b9d2/thumb.jpg</iphoto:thumbnail>
-      <iweb:micro>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/f30efac092ff27ca9f47c1cf8334b9d2/micro.jpg</iweb:micro>
-      <iweb:mip-thumbnail>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/f30efac092ff27ca9f47c1cf8334b9d2/mip.jpg</iweb:mip-thumbnail>
-      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_42&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;f30efac092ff27ca9f47c1cf8334b9d2&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+      <enclosure url="https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/f30efac092ff27ca9f47c1cf8334b9d2/f30efac092ff27ca9f47c1cf8334b9d2.jpg" length="143892" type="image/jpeg"/>
+      <iphoto:thumbnail>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/f30efac092ff27ca9f47c1cf8334b9d2/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/f30efac092ff27ca9f47c1cf8334b9d2/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>https://jxc7277.github.io/Site/My_Albums/Pages/Solar_Eclipse_2024_files/Media/f30efac092ff27ca9f47c1cf8334b9d2/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;f30efac092ff27ca9f47c1cf8334b9d2&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
     </item>
   </channel>
 </rss>

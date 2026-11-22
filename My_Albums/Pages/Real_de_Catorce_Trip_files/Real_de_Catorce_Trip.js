@@ -1,12 +1,12 @@
 // Created by iWeb 3.0.2 local-build-20261121
 
 function createMediaStream_id4()
-{return IWCreatePhotocast("file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/Real_de_Catorce_Trip_files/rss.xml",true);}
+{return IWCreatePhotocast("https://jxc7277.github.io/Site/My_Albums/Pages/Real_de_Catorce_Trip_files/rss.xml",true);}
 function initializeMediaStream_id4()
-{createMediaStream_id4().load('file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages',function(imageStream)
+{createMediaStream_id4().load('https://jxc7277.github.io/Site/My_Albums/Pages',function(imageStream)
 {var entryCount=imageStream.length;var headerView=widgets['widget1'];headerView.setPreferenceForKey(imageStream.length,'entryCount');NotificationCenter.postNotification(new IWNotification('SetPage','id4',{pageIndex:0}));});}
 function layoutMediaGrid_id4(range)
-{createMediaStream_id4().load('file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages',function(imageStream)
+{createMediaStream_id4().load('https://jxc7277.github.io/Site/My_Albums/Pages',function(imageStream)
 {if(range==null)
 {range=new IWRange(0,imageStream.length);}
 IWLayoutPhotoGrid('id4',new IWPhotoGridLayout(3,new IWSize(180,180),new IWSize(180,42),new IWSize(216,237),27,27,0,new IWSize(31,30)),new IWPhotoFrame([IWCreateImage('Real_de_Catorce_Trip_files/notebook_ul.png'),IWCreateImage('Real_de_Catorce_Trip_files/notebook_top.png'),IWCreateImage('Real_de_Catorce_Trip_files/notebook_ur.png'),IWCreateImage('Real_de_Catorce_Trip_files/notebook_right.png'),IWCreateImage('Real_de_Catorce_Trip_files/notebook_lr.png'),IWCreateImage('Real_de_Catorce_Trip_files/notebook_bottom.png'),IWCreateImage('Real_de_Catorce_Trip_files/notebook_ll.png'),IWCreateImage('Real_de_Catorce_Trip_files/notebook_left.png')],null,0,1.000000,3.000000,2.000000,1.000000,3.000000,18.000000,16.000000,17.000000,19.000000,76.000000,123.000000,79.000000,122.000000,null,null,null,0.400000),imageStream,range,null,null,1.000000,{backgroundColor:'rgb(0, 0, 0)',reflectionHeight:100,reflectionOffset:2,captionHeight:100,fullScreen:0,transitionIndex:2},'../../Media/slideshow.html','widget1','widget2','widget3')});}

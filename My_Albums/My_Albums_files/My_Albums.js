@@ -1,12 +1,12 @@
 // Created by iWeb 3.0.2 local-build-20261121
 
 function createMediaStream_id4()
-{return IWCreateMediaCollection("file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/My_Albums_files/rss.xml",true,255,["No photos yet","%d photo","%d photos"],["","%d clip","%d clips"]);}
+{return IWCreateMediaCollection("https://jxc7277.github.io/Site/My_Albums/My_Albums_files/rss.xml",true,255,["No photos yet","%d photo","%d photos"],["","%d clip","%d clips"]);}
 function initializeMediaStream_id4()
-{createMediaStream_id4().load('file://localhost/Users/rudycastaneda/Sites/Site/My_Albums',function(imageStream)
+{createMediaStream_id4().load('https://jxc7277.github.io/Site/My_Albums',function(imageStream)
 {var entryCount=imageStream.length;var headerView=widgets['widget6'];headerView.setPreferenceForKey(imageStream.length,'entryCount');NotificationCenter.postNotification(new IWNotification('SetPage','id4',{pageIndex:0}));});}
 function layoutMediaGrid_id4(range)
-{createMediaStream_id4().load('file://localhost/Users/rudycastaneda/Sites/Site/My_Albums',function(imageStream)
+{createMediaStream_id4().load('https://jxc7277.github.io/Site/My_Albums',function(imageStream)
 {if(range==null)
 {range=new IWRange(0,imageStream.length);}
 IWLayoutPhotoGrid('id4',new IWPhotoGridLayout(2,new IWSize(270,202),new IWSize(270,38),new IWSize(324,256),27,27,0,new IWSize(66,62)),new IWPhotoFrame([IWCreateImage('My_Albums_files/orangebook_ul.png'),IWCreateImage('My_Albums_files/orangebook_top.jpg'),IWCreateImage('My_Albums_files/orangebook_ur.png'),IWCreateImage('My_Albums_files/orangebook_right.png'),IWCreateImage('My_Albums_files/orangebook_lr.png'),IWCreateImage('My_Albums_files/orangebook_bottom.png'),IWCreateImage('My_Albums_files/orangebook_ll.png'),IWCreateImage('My_Albums_files/orangebook_left.png')],null,0,0.627193,0.000000,0.000000,0.000000,0.000000,61.000000,41.000000,43.000000,57.000000,30.000000,30.000000,30.000000,30.000000,null,null,null,0.500000),imageStream,range,(null),null,1.000000,null,'../Media/slideshow.html','widget6',null,'widget7',{showTitle:true,showMetric:true})});}

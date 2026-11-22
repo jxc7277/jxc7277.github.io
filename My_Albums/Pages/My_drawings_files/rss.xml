@@ -2,27 +2,27 @@
 <rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
   <channel>
     <title>My Photos</title>
-    <link>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/My_drawings.html</link>
+    <link>https://jxc7277.github.io/Site/My_Albums/Pages/My_drawings.html</link>
     <description>I draw a bit in my free time and here are my finished drawings that I’ve made over the years along with the date each drawing was completed</description>
     <item>
       <title>Me and Felix playing Portal 2 (October 12, 2025)</title>
-      <link>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/My_drawings.html#0</link>
+      <link>https://jxc7277.github.io/Site/My_Albums/Pages/My_drawings.html#0</link>
       <guid isPermaLink="false">08dfe523-cc44-4550-8792-d281de634bf5</guid>
-      <enclosure url="file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/My_drawings_files/Media/5wqcq9/5wqcq9.jpg" length="97351" type="image/jpeg"/>
-      <iphoto:thumbnail>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/My_drawings_files/Media/5wqcq9/thumb.jpg</iphoto:thumbnail>
-      <iweb:micro>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/My_drawings_files/Media/5wqcq9/micro.jpg</iweb:micro>
-      <iweb:mip-thumbnail>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/My_drawings_files/Media/5wqcq9/mip.jpg</iweb:mip-thumbnail>
-      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_42&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;Me and Felix playing Portal 2 (October 12, 2025)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+      <enclosure url="https://jxc7277.github.io/Site/My_Albums/Pages/My_drawings_files/Media/5wqcq9/5wqcq9.jpg" length="97351" type="image/jpeg"/>
+      <iphoto:thumbnail>https://jxc7277.github.io/Site/My_Albums/Pages/My_drawings_files/Media/5wqcq9/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>https://jxc7277.github.io/Site/My_Albums/Pages/My_drawings_files/Media/5wqcq9/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>https://jxc7277.github.io/Site/My_Albums/Pages/My_drawings_files/Media/5wqcq9/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;Me and Felix playing Portal 2 (October 12, 2025)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
     </item>
     <item>
       <title>Your head in the clouds (September 21, 2026)</title>
-      <link>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/My_drawings.html#1</link>
+      <link>https://jxc7277.github.io/Site/My_Albums/Pages/My_drawings.html#1</link>
       <guid isPermaLink="false">5be94d81-ad3a-403c-9915-c0356e0ee96a</guid>
-      <enclosure url="file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/My_drawings_files/Media/0c59cd/0c59cd.jpg" length="63833" type="image/jpeg"/>
-      <iphoto:thumbnail>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/My_drawings_files/Media/0c59cd/thumb.jpg</iphoto:thumbnail>
-      <iweb:micro>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/My_drawings_files/Media/0c59cd/micro.jpg</iweb:micro>
-      <iweb:mip-thumbnail>file://localhost/Users/rudycastaneda/Sites/Site/My_Albums/Pages/My_drawings_files/Media/0c59cd/mip.jpg</iweb:mip-thumbnail>
-      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_42&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;Your head in the clouds (September 21, 2026)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+      <enclosure url="https://jxc7277.github.io/Site/My_Albums/Pages/My_drawings_files/Media/0c59cd/0c59cd.jpg" length="63833" type="image/jpeg"/>
+      <iphoto:thumbnail>https://jxc7277.github.io/Site/My_Albums/Pages/My_drawings_files/Media/0c59cd/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>https://jxc7277.github.io/Site/My_Albums/Pages/My_drawings_files/Media/0c59cd/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>https://jxc7277.github.io/Site/My_Albums/Pages/My_drawings_files/Media/0c59cd/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;Your head in the clouds (September 21, 2026)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
     </item>
   </channel>
 </rss>
