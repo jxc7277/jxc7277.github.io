@@ -2,21 +2,21 @@
 <rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
   <channel>
     <title>About Me</title>
-    <link>https://jxc7277.github.io/Blog/Blog.html</link>
+    <link>https://jxc7277.github.io/Site/Blog/Blog.html</link>
     <description>Name: Jada Castaneda&lt;br/&gt;School: University of Texas at Arlington&lt;br/&gt;Favorite Subjects: Professional and Technical Communication &amp;amp; Introduction to Computer Science and Engineering&lt;br/&gt;Interests: Video games and vlogging&lt;br/&gt;Location: Dallas&lt;br/&gt;Texas, USA</description>
     <generator>iWeb 3.0.2</generator>
     <image>
-      <url>https://jxc7277.github.io/Blog/Blog_files/Photo%20310.jpg</url>
+      <url>https://jxc7277.github.io/Site/Blog/Blog_files/Photo%20310.jpg</url>
       <title>About Me</title>
-      <link>https://jxc7277.github.io/Blog/Blog.html</link>
+      <link>https://jxc7277.github.io/Site/Blog/Blog.html</link>
     </image>
     <item>
       <title>My first entry here (NEW!!! Website Design)</title>
-      <link>https://jxc7277.github.io/Blog/Entries/2026/11/21_Entry_1.html</link>
+      <link>https://jxc7277.github.io/Site/Blog/Entries/2026/11/21_Entry_1.html</link>
       <guid isPermaLink="false">d4cbe2eb-f244-4b59-b721-443a2711b4c8</guid>
       <pubDate>Sat, 21 Nov 2026 17:30:53 -0600</pubDate>
       <description>&lt;a href=&quot;https://jxc7277.github.io/Site/Blog/Entries/2026/11/21_Entry_1_files/Photo%20on%202026-11-21%20at%2018.47.jpg&quot;&gt;&lt;img src=&quot;https://jxc7277.github.io/Site/Blog/Media/object030_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:289px; height:217px;&quot;/&gt;&lt;/a&gt;Today is a very special day because today I am finally upgrading website designs. This is a day that I had been preparing for this week and I can’t wait to explain how this happened. The template for this website comes from the official iWeb app that’s installed on my iMac. I went with a pre-made template because it’s easier and it’s also really cool looking. I don’t think I want to create at the moment multiple entries to back up my old entries so for now I’m going to just leave a copy of my old code for the blog page in case anyone wants to read the ramblings of a teenager. I don’t know why you’d want to but the entries will still be there in case you care.&lt;br/&gt;&lt;br/&gt;Anyways, I’m excited about posting on this more modern web design. I don’t have much to say on it so I apologize if your expectations for this entry were higher but not much has happened today which is why I can’t comment on my day. I’m about to head out for the evening which is also why this entry is short because I have to download a backup of my old website design and use GitHub Desktop for the first time in 2-3 years to commit my website changes with the proper file layout in the least amount of time possible. To whoever reads this I hope you have a great evening and sweet dreams. I will try to see you all tomorrow. Goodbye!</description>
-      <enclosure url="https://jxc7277.github.io/Blog/Entries/2026/11/21_Entry_1_files/Photo%20on%202026-11-21%20at%2018.47.jpg" length="108705" type="image/jpeg"/>
+      <enclosure url="https://jxc7277.github.io/Site/Blog/Entries/2026/11/21_Entry_1_files/Photo%20on%202026-11-21%20at%2018.47.jpg" length="108705" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
