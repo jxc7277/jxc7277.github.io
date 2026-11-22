@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>file://localhost/Users/rudycastaneda/Sites/Site/Blog</link>
+    <description>Name: Jada Castaneda
+School: University of Texas at Arlington
+Favorite Subjects: Professional and Technical Communication &amp; Introduction to Computer Science and Engineering
+Interests: Video games and vlogging
+Location: Dallas
+Texas, USA</description>
+    <item>
+      <title>My first entry here (NEW!!! Website Design)</title>
+      <link>file://localhost/Users/rudycastaneda/Sites/Site/Blog/Entries/2026/11/21_Entry_1.html</link>
+      <guid isPermaLink="false">d4cbe2eb-f244-4b59-b721-443a2711b4c8</guid>
+      <pubDate>Sat, 21 Nov 2026 17:30:53 -0600</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/rudycastaneda/Sites/Site/Blog/Entries/2026/11/21_Entry_1.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/rudycastaneda/Sites/Site/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

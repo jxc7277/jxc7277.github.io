@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:3AA02DDD-FA0A-4B0D-8926-B883460899B8</id>
+ <title>Page list Atom feed</title>
+ <updated>2026-11-21T19:18:48-06:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:6AE077B1-2652-4E4F-946F-5167B1428BCF</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">6AE077B1-2652-4E4F-946F-5167B1428BCF</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2026-11-21T19:18:48.001-06:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:76C859DF-0F91-4880-B8D2-F93459FD643E</id>
+  <title>About Me</title>
+  <title xmlns="urn:iweb:">About Me</title>
+  <in-navbar xmlns="urn:iweb:">76C859DF-0F91-4880-B8D2-F93459FD643E</in-navbar>
+  <link rel="alternate" href="About_Me.html"/>
+  <updated>2026-11-21T19:18:48.002-06:00</updated>
+  <content>About Me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C29C371D-A427-42DD-8E5A-20F2A455C50C</id>
+  <title>My Certifications</title>
+  <title xmlns="urn:iweb:">My Certifications</title>
+  <in-navbar xmlns="urn:iweb:">C29C371D-A427-42DD-8E5A-20F2A455C50C</in-navbar>
+  <link rel="alternate" href="My_Certifications.html"/>
+  <updated>2026-11-21T19:18:48.003-06:00</updated>
+  <content>My Certifications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AD52A58A-AC43-4EB2-8B30-BA2EB351C0CA</id>
+  <title>My Albums</title>
+  <title xmlns="urn:iweb:">My Albums</title>
+  <in-navbar xmlns="urn:iweb:">AD52A58A-AC43-4EB2-8B30-BA2EB351C0CA</in-navbar>
+  <link rel="alternate" href="My_Albums/My_Albums.html"/>
+  <updated>2026-11-21T19:18:48.004-06:00</updated>
+  <content>My Albums</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:01160687-C18E-4D0B-A605-FF86BD125A5A</id>
+  <title>Videos</title>
+  <title xmlns="urn:iweb:">Videos</title>
+  <in-navbar xmlns="urn:iweb:">01160687-C18E-4D0B-A605-FF86BD125A5A</in-navbar>
+  <link rel="alternate" href="Videos.html"/>
+  <updated>2026-11-21T19:18:48.005-06:00</updated>
+  <content>Videos</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4F363939-CDD4-43B1-B037-B2A2921B852A</id>
+  <title>Blog</title>
+  <title xmlns="urn:iweb:">Blog</title>
+  <in-navbar xmlns="urn:iweb:">4F363939-CDD4-43B1-B037-B2A2921B852A</in-navbar>
+  <link rel="alternate" href="Blog/Blog.html"/>
+  <updated>2006-03-30T11:51:21-06:00</updated>
+  <content>Blog</content>
+ </entry>
+</feed>

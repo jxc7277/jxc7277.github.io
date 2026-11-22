@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="124D7B2B-C405-413C-8E8E-6DA2F7EB5E25">
+  <lastEdited clientType="local-build-20261121" date="2026-11-21 18:54:31 -0600"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>My Blog</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Today is a very special day because today I am finally upgrading website designs. This is a day that I had been preparing for this week and I can&#x2019;t wait to explain how this happened. The template for this website comes from the official iWeb app that&#x2019;s installed on my iMac. I went with a pre-made template because it&#x2019;s easier and it&#x2019;s also really cool looking. I don&#x2019;t think I want to create at the moment multiple entries to back up my old entries so for now I&#x2019;m going to just leave a copy of my old code for the blog page in case anyone wants to read the ramblings of a teenager. I don&#x2019;t know why you&#x2019;d want to but the entries will still be there in case you care.&#xD;&#xD;Anyways, I&#x2019;m excited about posting on this more modern web design. I don&#x2019;t have much to say on it so I apologize if your expectations for this entry were higher but not much has happened today which is why I can&#x2019;t comment on my day. I&#x2019;m about to head out for the evening which is also why this entry is short because I have to download a backup of my old website design and use GitHub Desktop for the first time in 2-3 years to commit my website changes with the proper file layout in the least amount of time possible. To whoever reads this I hope you have a great evening and sweet dreams. I will try to see you all tomorrow. Goodbye!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="289px" height="217px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, November 21, 2026</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>My first entry here (NEW!!! Website Design)</richText>
+  </textBox>
+</content>
