@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="124D7B2B-C405-413C-8E8E-6DA2F7EB5E25">
+  <lastEdited clientType="local-build-20261124" date="2026-11-24 17:47:52 -0600"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>My Blog</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I am going to be on a break during this Thanksgiving break as I spend time with my family. Before I leave, I want to type up a little blog post on what I&#x2019;m thankful for and get it posted before I log off my computer. To start this off, I want to say that I am very thankful for all of my fellow blog readers and I hope that you have a wonderful thanksgiving with your friends and your family. I cannot wait to return after this break and prepare for the other holidays soon but I want to take this break so that I am not consumed by just being on the internet during this time.&#xD;&#xD;The main thing that I am grateful for is my friends and the memories I&#x2019;ve shared with them. A good memory I can think of is over the past summer when I had my friends Felix and Charlie show up to my house for my birthday party. I&#x2019;ve also had good memories talking to other friends like Tupac and George on the phone through texting and calling. All my friends are very supportive of me and I&#x2019;ve always felt like I could rely on them for anything. I also feel like I could lean on them during times of hardship just like they&#x2019;ve leaned on me during their hardships.&#xD;&#xD;I feel like this year I also have to be thankful for my family. I love them a lot and I appreciate their company. My biggest joy is getting to be around my parents every day, visiting my grandma, and visiting my brother. This is one my longer entries but I feel like that&#x2019;s mainly because I&#x2019;m going to be gone so I don&#x2019;t just want to leave a shorter entry here. Spend as much time as you can with your friends and family this upcoming day and I will see you all when I get back from my break. Stay safe everybody. Bye!&#xD;&#xD;Sincerely, &#xD;&lt;i&gt;Jada Castaneda&lt;/i&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_What_Im_thankful_for_this_Thanksgiving_files/shapeimage_1.png" left="0px" top="0px" width="289px" height="217px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday, November 23, 2026</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>What I&#x2019;m thankful for this Thanksgiving</richText>
+  </textBox>
+</content>
